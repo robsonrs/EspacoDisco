@@ -1,0 +1,23 @@
+﻿@model DiskInformationViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">SCXTD0116CLD</h1>
+    @{
+        foreach (var item in Model.listaInformações)
+        {
+            <h3>
+                <strong>Nome Disco:</strong> <code>@item.DiskName</code>
+            </h3>
+            <p>
+                <strong>Total:</strong> <code>@item.DiskTotalSpace</code>
+            </p>
+            <p>
+                <strong>Espaço Livre:</strong> <code>@item.DiskFreeSpace</code>
+            </p>
+        }
+    }
+    <p></p>
+</div>

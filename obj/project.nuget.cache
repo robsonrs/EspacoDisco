@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0vd2KgbnLz4uGGwfjg+B03ER04ndMwurnMxi0IJNolrXjO2gCzEWqrNLVWkvvEjv71LgqX5AS7+1kTzmMenh/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\robso\\OneDrive\\Robson\\Estudos\\EspacoDisco\\EspacoDisco.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robso\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\robso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
